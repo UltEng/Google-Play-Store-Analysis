@@ -1,5 +1,5 @@
 <h1 align="center">
-Google Play Store Analytics
+Google Play Store Analysis
 <br>
 </h1>
 <img src="https://raw.githubusercontent.com/fafilia/capstone-UIFlask/master/full_capstone.png">
